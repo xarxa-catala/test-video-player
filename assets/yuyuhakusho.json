@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name" : "001 - Adéu, món dels vius",
+    "path" : "archive/Yuyu Hakusho -001- Adéu, món dels vius.avi"
+  },
+  {
+    "id": 1,
+    "name" : "002 - El príncep Koenma, la prova per tornar a la vida",
+    "path" : "archive/Yuyu Hakusho -002- El príncep Koenma, la prova per tornar a la vida.avi"
+  },
+  {
+    "id": 2,
+    "name" : "003 - En Kuwabara perseguit, la paraula d'un home",
+    "path" : "archive/Yuyu Hakusho -003- En Kuwabara perseguit, la paraula d'un home.avi"
+  },
+  {
+    "id": 3,
+    "name" : "004 - El foc que crema, el vincle dels amants",
+    "path" : "archive/Yuyu Hakusho -004- El foc que crema, el vincle dels amants.avi"
+  },
+  {
+    "id": 4,
+    "name" : "005 - En Yusuke torna a la vida. La nova missió",
+    "path" : "archive/Yuyu Hakusho -005- En Yusuke torna a la vida. La nova missió.avi"
+  },
+  {
+    "id": 5,
+    "name" : "006 - Els tres lladres Hiei, Kurama i Goki",
+    "path" : "archive/Yuyu Hakusho -006- Els tres lladres Hiei, Kurama i Goki.avi"
+  },
+  {
+    "id": 6,
+    "name" : "007 - El secret den Kurama. L'amor entre mare i fill",
+    "path" : "archive/Yuyu Hakusho -007- El secret den Kurama. L'amor entre mare i fill.avi"
+  }
+]
