@@ -9,16 +9,15 @@ $(document).ready(function () {
 });
 
 function obtainJSONFromIndex() {
-  /*
+
   $.ajax({
     type: 'GET',
     url: urlIndexChapters,
     dataType: 'json',
     success: function (data, status, xhr) {
         alert(xhr.getResponseHeader('Location'));
-      }
+      },
   });
-  */
 
   return '[{"id":14,"name":"","number":0,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x00.mp4","prequels":null,"sequels":null},{"id":15,"name":"","number":1,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x01.mp4","prequels":null,"sequels":null},{"id":16,"name":"","number":2,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x02.mp4","prequels":null,"sequels":null},{"id":17,"name":"","number":3,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x03.mp4","prequels":null,"sequels":null},{"id":18,"name":"","number":4,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x04.mp4","prequels":null,"sequels":null},{"id":19,"name":"","number":5,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x05.mp4","prequels":null,"sequels":null},{"id":20,"name":"","number":6,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x06.mp4","prequels":null,"sequels":null},{"id":21,"name":"","number":7,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x07.mp4","prequels":null,"sequels":null},{"id":22,"name":"","number":8,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x08.mp4","prequels":null,"sequels":null},{"id":23,"name":"","number":9,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x09.mp4","prequels":null,"sequels":null},{"id":24,"name":"","number":10,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x10.mp4","prequels":null,"sequels":null},{"id":25,"name":"","number":11,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x11.mp4","prequels":null,"sequels":null},{"id":26,"name":"","number":12,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x12.mp4","prequels":null,"sequels":null},{"id":27,"name":"","number":13,"show_id":1,"season_id":2,"url":"https://multimedia.xarxacatala.cat/DW/S2/DW-02x13.mp4","prequels":null,"sequels":null}]';
 }
