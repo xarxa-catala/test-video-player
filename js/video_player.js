@@ -13,7 +13,7 @@ function obtainJSONFromIndex() {
   $.ajax({
     type: 'GET',
     url: urlIndexChapters,
-    dataType: 'json',
+    dataType: 'JSONP',
     success: function (data, status, xhr) {
         alert(xhr.getResponseHeader('Location'));
       },
